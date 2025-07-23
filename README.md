@@ -7,7 +7,7 @@ O objetivo é praticar os fundamentos do desenvolvimento web com **Spring**, **J
 
 ## 🛠 Tecnologias utilizadas
 
-- **Java 17**
+- **Java 21**
 - **Spring Boot 3**
 - **Spring Web**
 - **Spring Data JPA**
@@ -65,7 +65,7 @@ Este projeto utiliza autenticação baseada em **JWT (JSON Web Token)** para pro
 
 ### ✅ Pré-requisitos
 
-- Java 17 ou superior
+- Java 21
 - Maven
 - MySQL
 - IDE como IntelliJ ou VS Code (opcional)
