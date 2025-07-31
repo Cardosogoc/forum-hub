@@ -1,7 +1,7 @@
 # Forum Hub 🧠💬
 
-Projeto de um fórum de discussão desenvolvido com **Java** e **Spring Boot**, utilizando autenticação JWT, CRUD de tópicos e conexão com banco de dados.  
-O objetivo é praticar os fundamentos do desenvolvimento web com **Spring**, **JPA**, **RESTful APIs** e **segurança com Spring Security**.
+Projeto de um fórum de discussão desenvolvido com **Java** e **Spring Boot**, além de conexão com banco de dados (locaL).  
+O objetivo é praticar os fundamentos do desenvolvimento web com **Spring**, **JPA** e **segurança com Spring Security**.
 
 ---
 
@@ -12,8 +12,6 @@ O objetivo é praticar os fundamentos do desenvolvimento web com **Spring**, **J
 - **Spring Web**
 - **Spring Data JPA**
 - **Spring Security**
-- **JWT (JSON Web Token)**
-- **Hibernate**
 - **MySQL**
 - **Maven**
 
@@ -23,7 +21,6 @@ O objetivo é praticar os fundamentos do desenvolvimento web com **Spring**, **J
 
 - [x] Construção do banco de dados com MySQL
 - [x] Autenticação com Spring Security
-- [x] Geração de token JWT
 - [x] Autenticação utilizando JWT
 - [x] Cadastro de um novo tópico
 - [x] Listagem de tópicos
@@ -73,3 +70,5 @@ Este projeto utiliza autenticação baseada em **JWT (JSON Web Token)** para pro
 🧑‍💻 Autor
 Gabriel Cardoso
 GitHub - Cardosogoc
+
+Sugestões de melhora / dúvidas , estou sempre a disposição. Contatos na home do perfil.
